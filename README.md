@@ -13,4 +13,6 @@ To install the resource pack, download "Minto Resource Pack" and ensure that it 
 ## _Update Log_
 1.0
 - compatible with Minecraft version 1.21
-- changes
+- changes base Zombie mob to Maid Mint
+- changes Husk mob to Maid Chili
+- changes Drowned mob to Maid Lilac
