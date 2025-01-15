@@ -1,5 +1,5 @@
 # Minto-Pack
-# _Mint Fantome Resource Pack_
+## _Mint Fantome Resource Pack_
 
 A fanmade resource pack taking inspiration from indie vtuber Mint Fantome
 
@@ -10,7 +10,7 @@ To install the resource pack, download "Minto Resource Pack" and ensure that it 
 
 ------------------------------------------------------
 
-# _Update Log_
+## _Update Log_
 1.0
 - compatible with Minecraft version 1.21
 - changes
