@@ -16,3 +16,4 @@ To install the resource pack, download "Minto Resource Pack" and ensure that it 
 - changes base Zombie mob to Maid Mint
 - changes Husk mob to Maid Chili
 - changes Drowned mob to Maid Lilac
+- changes rotten flesh to ectoplasm
