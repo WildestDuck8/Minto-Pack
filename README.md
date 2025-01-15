@@ -1,4 +1,4 @@
-## Minto-Pack
+# Minto-Pack
 # _Mint Fantome Resource Pack_
 
 A fanmade resource pack taking inspiration from indie vtuber Mint Fantome
