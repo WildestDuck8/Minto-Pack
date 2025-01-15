@@ -1,0 +1,30 @@
+zombie		drowned		husk
+
+death		convert1	convert1
+hurt1		convert2	convert2
+hurt2		convert3	death1
+infect		death1		death2
+metal1		death2		hurt1
+metal2		hurt1		hurt2
+metal3		hurt2		idle1
+say1		hurt3		idle2
+say2		idle1		idle3
+say3		idle2		step1
+step1		idle3		step2
+step2		idle4		step3
+step3		idle4		step4
+step4		idle5		step5
+step5		step1
+unfect		step2
+wood1		step3
+wood2		step4
+wood3		step5
+wood4		w.death1
+woodbreak	w.death2
+		w.hurt1
+		w.hurt2
+		w.hurt3
+		w.idle1
+		w.idle2
+		w.idle3
+		w.idle4
